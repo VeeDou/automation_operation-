@@ -7,6 +7,6 @@ align=center>
 
 ### 新规则处理
 <img 
-src="https://github.com/VeeDou/automation_operation-/blob/master/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E8%90%A5/%E8%A7%84%E5%88%99%E6%9B%B4%E6%96%B0%E5%8D%8A%E8%87%AA%E5%8A%A8%E5%8C%96/C9918B50-3D4B-4600-8D0E-578A37AE70EC.png" width = "600" height = "300" alt="新规则处理" 
+src="https://github.com/VeeDou/automation_operation-/blob/master/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E8%90%A5/%E8%A7%84%E5%88%99%E6%9B%B4%E6%96%B0%E5%8D%8A%E8%87%AA%E5%8A%A8%E5%8C%96/C9918B50-3D4B-4600-8D0E-578A37AE70EC.png" width = "500" height = "300" alt="新规则处理" 
 align=center>
 
